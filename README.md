@@ -53,9 +53,9 @@ This module is fully configurable via `ac130.conf`. You can change settings with
 ## 🛠️ Installation
 
 1.  **Download :** Place the `mod-ac130` folder into your `azerothcore-wotlk/modules/` directory.
-2.  **Config :** Copy `ac130.conf.dist` to your server's `etc` folder and rename it to `ac130.conf`.
-3.  **SQL :** Run `creature_template.sql` in your `acore.world` database to link the NPC AI:
-4.  **Server :** Run your server and brace yourself!
+2.  **Config :** Copy `ac130.conf.dist` to your server's modules folder and rename it to `ac130.conf`.
+3.  **SQL :** Run `creature_template.sql` in your `acore.world` database.
+4.  **Server :** Start your server and brace yourself!
 
 ---
 
