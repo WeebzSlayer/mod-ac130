@@ -1,7 +1,7 @@
 # 𝕞𝕠𝕕-𝕒𝕔𝟙𝟛𝟘 🚀🔥
 
 [![AzerothCore-WotLK](https://img.shields.io/badge/AzerothCore-WotLK-blue?style=for-the-badge&logo=c%2B%2B)](https://www.azerothcore.org/)
-![License-AGPL](https://img.shields.io/badge/License-AGPL-red?style=for-the-badge)
+[![License: GNU AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-red.svg)](https://github.com/azerothcore/azerothcore-wotlk/blob/master/LICENSE)
 ![Module-Gameplay](https://img.shields.io/badge/Module-Gameplay-orange?style=for-the-badge)
 
 ---
