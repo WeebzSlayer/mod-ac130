@@ -1,4 +1,4 @@
-# 𝖒𝖔𝖉-𝖆𝖈130 🚀🔥
+# 𝕞𝕠𝕕-𝕒𝕔𝟙𝟛𝟘 🚀🔥
 
 [![AzerothCore-WotLK](https://img.shields.io/badge/AzerothCore-WotLK-blue?style=for-the-badge&logo=c%2B%2B)](https://www.azerothcore.org/)
 ![License-AGPL](https://img.shields.io/badge/License-AGPL-red?style=for-the-badge)
@@ -69,7 +69,7 @@ This module is fully configurable via `ac130.conf`. You can change settings with
 
 ## 📜 Credits
 
-*   **WeebzSlayer**
+*   **[WeebzSlayer](https://github.com/WeebzSlayer)**
 *   **Rev** for the inspiration.
 
 ---
