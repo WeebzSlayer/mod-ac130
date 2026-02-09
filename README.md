@@ -68,6 +68,6 @@ This module is fully configurable via `ac130.conf`. You can change settings with
 ---
 
 **Made for AzerothCore.** ✨
-If you like this module, feel free to give it a ⭐ on GitHub!
+If you like this module, feel free to give it a ⭐ on GitHub.
 
 ---
