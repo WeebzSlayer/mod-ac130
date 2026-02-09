@@ -4,7 +4,6 @@
 [![License: GNU AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-red.svg)](https://github.com/azerothcore/azerothcore-wotlk/blob/master/LICENSE)
 [![Type](https://img.shields.io/badge/Type-PvP%20%2F%20PvE-orange.svg)]()
 
-
 ---
 
 <p align="center"><img width="1384" height="671" alt="bannerac130" src="https://github.com/user-attachments/assets/f63503bc-1f61-4a27-b191-ff1e3434193d" />
