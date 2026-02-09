@@ -1,0 +1,41 @@
+[worldserver]
+
+########################################
+# AC130 Bombardment Module Configuration
+########################################
+
+# Enable the module?
+# Default: 1 (Enabled)
+AC130.Enable = 1
+
+# Time between events in minutes.
+# Default: 60 (1 hour)
+AC130.Interval = 60
+
+# Chance (0-100) that a capital city is targeted.
+# Default: 5
+AC130.CityProbability = 5
+
+# Chance (0-100) that a zone with active players is targeted (if city roll fails).
+# Default: 30
+AC130.PlayerProbability = 30
+
+# The altitude of the Zeppelins.
+# Default: 80.0
+AC130.Altitude = 80.0
+
+# How long the Zeppelins stay before despawning (in seconds).
+# Default: 600 (10 minutes)
+AC130.DespawnTime = 600
+
+# Radius of the bomb explosion in yards.
+# Default: 30.0
+AC130.BombRadius = 30.0
+
+# Movement speed of the Zeppelin (0.1 is very slow, 1.0 is normal).
+# Default: 0.3
+AC130.FlySpeed = 0.3
+
+# Damage Mode: 1 = Kill Everything, 0 = High Damage but survivable.
+# Default: 1
+AC130.InstantKill = 1
