@@ -6,7 +6,8 @@
 
 ---
 
-<p align="center"><img width="1584" height="672" alt="bannerac130" src="https://github.com/user-attachments/assets/bdd53327-c4af-482e-86d9-1b13c1036726" /></p>
+<p align="center"><img width="1384" height="671" alt="bannerac130" src="https://github.com/user-attachments/assets/f63503bc-1f61-4a27-b191-ff1e3434193d" />
+</p>
 
 ---
 
