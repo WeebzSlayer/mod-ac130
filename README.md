@@ -3,8 +3,11 @@
 [![AzerothCore-WotLK](https://img.shields.io/badge/AzerothCore-WotLK-blue?style=for-the-badge&logo=c%2B%2B)](https://www.azerothcore.org/)
 ![License-AGPL](https://img.shields.io/badge/License-AGPL-red?style=for-the-badge)
 ![Module-Gameplay](https://img.shields.io/badge/Module-Gameplay-orange?style=for-the-badge)
+
 ---
+
 <p align="center"><img width="1584" height="672" alt="bannerac130" src="https://github.com/user-attachments/assets/bdd53327-c4af-482e-86d9-1b13c1036726" /></p>
+
 ---
 
 A high-intensity world event module for **AzerothCore** that brings total aerial devastation to the world. Every hour, Alliance and Horde AC130 fleets spawn to "glass" specific zones, leaving nothing alive in their wake. 💀
